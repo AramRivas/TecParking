@@ -1,4 +1,4 @@
-# tecPArking
+# tecParking
 This is car parking management system
 
 Hi!
